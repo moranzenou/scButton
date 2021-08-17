@@ -129,7 +129,7 @@ var modalBg = document.createElement('div');
 modalBg.style = 'background:rgba(0,0,0,0.5);width:100%;height:100%;position:fixed;z-index:999999999999;top:0;left:0;';
 
 var modalContainer = document.createElement('div');
-modalContainer.style = 'min-height:800px; background:white; position: absolute; top:50%;left:50%; width: 85%; height: 80%; transform:translate(-50%,-50%);';
+modalContainer.style = 'min-height:800px; background:white; position: absolute; top:50%;left:50%; width: 100%; height: 100%; transform:translate(-50%,-50%);';
 modalContainer.classList.add('iframeContainer');
 
 modalBg.appendChild(modalContainer);
