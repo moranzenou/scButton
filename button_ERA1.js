@@ -22,7 +22,7 @@ wt('init', {
 var linkedFields = {
 	"Recipe": {
 		"Title": {
-			"Title": "Sunflowers"
+			"Title": "Poppyseeds"
 		}
 	},
 	"gre": {
