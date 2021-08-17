@@ -12,7 +12,7 @@
 
 
 wt('init', {
-  channelId: '425985',
+  channelId: '1',
   idpServiceName: null,
   skipLogin: 'true',
   env: 'prod',
@@ -142,10 +142,10 @@ wt('initShortcut', {
   linkedFields,
   galleryAssets,
   userToken: null,
-  destLanguage: 'ru',
+  destLanguage: 'en',
   videoContext: null,
   storyboardId: null,
-  videoId: '611639b4c398f967360d828a',
+  videoId: null,
   showCreativeGallery: false,
   showUploadGallery: false,
   showSaveForLater: false,
