@@ -1,5 +1,6 @@
 
-(function (window, document, tag, url, name, a, m) {
+function ALL(){
+	(function (window, document, tag, url, name, a, m) {
     window[name] = window[name] || function () {
      (window[name].q = window[name].q || []).push(arguments)
     }, window[name].l = 1 * new Date();
@@ -167,4 +168,4 @@ wt('initShortcut', {
       });
     }
  });
-      
+  }    
